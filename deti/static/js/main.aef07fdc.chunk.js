@@ -467,7 +467,7 @@
                             }, r.a.createElement(b.l, {
                                 level: "1",
                                 weight: "semibold"
-                            }, "Мне осталось ", r.a.createElement("span", {
+                            }, "До рождения моих", r.a.createElement("span", {
                                 style: {
                                     backgroundImage: "linear-gradient(to left, #fc6076 0%, #ff9a44 100%)",
                                     color: "white",
@@ -475,7 +475,7 @@
                                     padding: "4px 4px 8px 4px",
                                     display: "inline-block"
                                 }
-                            }, "жить")), this.state.time ? r.a.createElement(b.l, {
+                            }, "ДЕТЕЙ")), this.state.time ? r.a.createElement(b.l, {
                                 level: "2",
                                 weight: "semibold",
                                 style: {
