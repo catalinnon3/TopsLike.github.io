@@ -537,8 +537,6 @@
                                     }), t)
                                 })))
                             }, 
-
-                            /*
                             this.state.paralel ? "Вернуться" : "Паралельная вселенная"), this.state.screen && r.a.createElement(b.l, {
                                 level: 2,
                                 weight: "semibold",
@@ -553,8 +551,8 @@
                                     color: "white"
                                 }
                             },
-                            */
-                             /*"Заходи в приложение, если не боишься узнать свою дату смерти", r.a.createElement("br", null), r.a.createElement("img", {
+                            
+                            "Заходи в приложение, если не боишься узнать свою дату смерти", r.a.createElement("br", null), r.a.createElement("img", {
                                 crossOrigin: "anonymous",
                                 style: {
                                     marginTop: "12px"
@@ -576,7 +574,7 @@
                                     display: this.state.screen && "none"
                                 }
                             }, 
-                            */ 
+                            
                             r.a.createElement(b.c, null, r.a.createElement(b.b, {
                                 onClick: Object(p.a)(u.a.mark((function t() {
                                     var a;
@@ -695,7 +693,7 @@
                                         [0, 11]
                                     ])
                                 })))
-                            }, "Узнат дат смерти")), this.state.snackbar))
+                            }, "Узнатmь дату смерти")), this.state.snackbar))
                         }
                     }]), t
                 }(r.a.Component);
