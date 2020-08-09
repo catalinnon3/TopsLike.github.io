@@ -648,7 +648,8 @@
                                 type: "text"
                             }), r.a.createElement(b.g, {
                                 top: "Во сколько ты хочешь завести детей?",
-                                type: "number"
+                                type: "number",
+                                defaultValue: 18
                             }), r.a.createElement(b.b, {
                                 size: "xl",
                                 onClick: Object(p.a)(u.a.mark((function t() {
