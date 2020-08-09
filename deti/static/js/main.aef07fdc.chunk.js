@@ -643,7 +643,7 @@
                                 value: "m"
                             }, "Мальчика"), r.a.createElement("option", {
                                 value: "f"
-                            }, "Девочку")), r.a.createElement(b.j, {
+                            }, "Девочку")), r.a.createElement(b.g, {
                                 top: "Есть ли у тебя брат/сестра?",
                                 type: "text"
                             }), r.a.createElement(b.j, {
