@@ -634,10 +634,13 @@
                             }, "Поделиться в истории"))), this.state.snackbar)), r.a.createElement(b.h, {
                                 id: "form"
                             }, r.a.createElement(b.e, null, r.a.createElement(b.g, {
-                                top: "тут вопрос 1?",
-                                type: "number",
-                                defaultValue: 18
-                            }), r.a.createElement(b.j, {
+                                top: "Любишь ли ты детей?",
+                                defaultValue: "m"
+                            }), r.a.createElement("option", {
+                                value: "m"
+                            }, "Да"), r.a.createElement("option", {
+                                value: "f"
+                            }, "Нет")), r.a.createElement(b.j, {
                                 top: "тут вопрос 2?",
                                 defaultValue: "m"
                             }, r.a.createElement("option", {
