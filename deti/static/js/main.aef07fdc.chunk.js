@@ -646,9 +646,9 @@
                             }, "Девочку")), r.a.createElement(b.g, {
                                 top: "Есть ли у тебя брат/сестра?",
                                 type: "text"
-                            }), r.a.createElement(b.j, {
+                            }), r.a.createElement(b.g, {
                                 top: "Во сколько ты хочешь завести детей?",
-                                type: "text"
+                                type: "number"
                             }), r.a.createElement(b.b, {
                                 size: "xl",
                                 onClick: Object(p.a)(u.a.mark((function t() {
