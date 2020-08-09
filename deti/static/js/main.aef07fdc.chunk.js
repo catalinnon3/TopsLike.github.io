@@ -661,9 +661,8 @@
                                     return u.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
-                                                return t.prev = 0, t.next = 3, i.a.send("VKWebAppAllowMessagesFromGroup", {
-                                                    group_id: 234234,
-                                                    key: "fsdgeruiogj"
+                                                return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
+                                                    group_id: 234234
                                                 });
                                             case 3:
                                                 return t.sent, e.setState({
