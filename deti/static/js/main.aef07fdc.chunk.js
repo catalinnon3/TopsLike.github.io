@@ -635,12 +635,8 @@
                                 id: "form"
                             }, r.a.createElement(b.e, null, r.a.createElement(b.g, {
                                 top: "Любишь ли ты детей?",
-                                defaultValue: "m"
-                            }), r.a.createElement("option", {
-                                value: "m"
-                            }, "Да"), r.a.createElement("option", {
-                                value: "f"
-                            }, "Нет")), r.a.createElement(b.j, {
+                                type: "text"
+                            }), r.a.createElement(b.j, {
                                 top: "тут вопрос 2?",
                                 defaultValue: "m"
                             }, r.a.createElement("option", {
