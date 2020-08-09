@@ -662,7 +662,7 @@
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
                                                 return t.prev = 0, t.next = 3, i.a.send("VKWebAppAllowMessagesFromGroup", {
-                                                    group_id: 109542461,
+                                                    group_id: 234234,
                                                     key: "fsdgeruiogj"
                                                 });
                                             case 3:
