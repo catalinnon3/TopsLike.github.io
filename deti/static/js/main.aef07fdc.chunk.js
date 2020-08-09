@@ -638,7 +638,7 @@
                                 type: "number",
                                 defaultValue: 18
                             }), r.a.createElement(b.j, {
-                                top: "\u041a\u0430\u043a\u043e\u0439 \u0412\u0430\u0448 \u043f\u043e\u043b?",
+                                top: "тут вопрос 2?",
                                 defaultValue: "m"
                             }, r.a.createElement("option", {
                                 value: "m"
