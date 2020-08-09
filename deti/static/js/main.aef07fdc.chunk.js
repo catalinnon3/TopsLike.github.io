@@ -637,49 +637,19 @@
                                 top: "Любишь ли ты детей?",
                                 type: "text"
                             }), r.a.createElement(b.j, {
-                                top: "тут вопрос 2?",
+                                top: "Кого бы ты хотела мальчика/девочку?",
                                 defaultValue: "m"
                             }, r.a.createElement("option", {
                                 value: "m"
-                            }, "вариант m"), r.a.createElement("option", {
+                            }, "Мальчика"), r.a.createElement("option", {
                                 value: "f"
-                            }, "вариант f")), r.a.createElement(b.j, {
-                                top: "Кто Вы по знаку зодиака?",
-                                defaultValue: "znak1"
-                            }, r.a.createElement("option", {
-                                value: "znak1"
-                            }, "\u041e\u0432\u0435\u043d"), r.a.createElement("option", {
-                                value: "znak2"
-                            }, "\u0422\u0435\u043b\u0435\u0446"), r.a.createElement("option", {
-                                value: "znak3"
-                            }, "\u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b"), r.a.createElement("option", {
-                                value: "znak4"
-                            }, "\u0420\u0430\u043a"), r.a.createElement("option", {
-                                value: "znak5"
-                            }, "\u041b\u0435\u0432"), r.a.createElement("option", {
-                                value: "znak6"
-                            }, "\u0414\u0435\u0432\u0430"), r.a.createElement("option", {
-                                value: "znak7"
-                            }, "\u0412\u0435\u0441\u044b"), r.a.createElement("option", {
-                                value: "znak8"
-                            }, "\u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d"), r.a.createElement("option", {
-                                value: "znak9"
-                            }, "\u0417\u043c\u0435\u0435\u043d\u043e\u0441\u0435\u0446"), r.a.createElement("option", {
-                                value: "znak10"
-                            }, "\u0421\u0442\u0440\u0435\u043b\u0435\u0446"), r.a.createElement("option", {
-                                value: "znak11"
-                            }, "\u041a\u043e\u0437\u0435\u0440\u043e\u0433"), r.a.createElement("option", {
-                                value: "znak12"
-                            }, "\u0412\u043e\u0434\u043e\u043b\u0435\u0439"), r.a.createElement("option", {
-                                value: "znak13"
-                            }, "\u0420\u044b\u0431\u044b")), r.a.createElement(b.j, {
-                                top: "\u0412\u0430\u0441 \u043f\u043e\u0441\u0435\u0449\u0430\u043b\u0438 \u043c\u044b\u0441\u043b\u0438 \u043e \u0441\u0443\u0438\u0446\u0438\u0434\u0435?",
-                                defaultValue: "nn"
-                            }, r.a.createElement("option", {
-                                value: "nn"
-                            }, "\u041d\u0435\u0442"), r.a.createElement("option", {
-                                value: "yy"
-                            }, "\u0414\u0430")), r.a.createElement(b.b, {
+                            }, "Девочку")), r.a.createElement(b.j, {
+                                top: "Есть ли у тебя брат/сестра?",
+                                type: "text"
+                            }, r.a.createElement(b.j, {
+                                top: "Во сколько ты хочешь завести детей?",
+                                type: "text"
+                            }, r.a.createElement(b.b, {
                                 size: "xl",
                                 onClick: Object(p.a)(u.a.mark((function t() {
                                     return u.a.wrap((function(t) {
