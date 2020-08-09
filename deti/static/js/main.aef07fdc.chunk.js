@@ -552,7 +552,7 @@
                                 }
                             },
                             
-                            "Заходи в приложение, если не боишься узнать свою дату смерти", r.a.createElement("br", null), r.a.createElement("img", {
+                            "Заходи в приложение, если хочешь узнать дату рождения своих детей", r.a.createElement("br", null), r.a.createElement("img", {
                                 crossOrigin: "anonymous",
                                 style: {
                                     marginTop: "12px"
