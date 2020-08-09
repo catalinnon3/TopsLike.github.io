@@ -249,7 +249,7 @@
                                 return u.a.wrap((function(e) {
                                     for (;;) switch (e.prev = e.next) {
                                         case 0:
-                                            if (a = [""], this.state._______reason2) {
+                                            if (a = ["Малькик", "Девочка", "Мальник и Девочка", "Две Девочки и Мальник", "Два Мальника и Девочка", "Два Мальника", "Две Девочки", "Твойня (Девочки)", "Твойня (Мальчики)"], this.state._______reason2) {
                                                 e.next = 79;
                                                 break
                                             }
@@ -494,7 +494,7 @@
                                     padding: "4px",
                                     display: "inline-block"
                                 }
-                            }, "Я умру"), r.a.createElement("br", null), r.a.createElement(b.b, {
+                            }, "Я умру" + (this.state.paralel ? this.state._______reason2 : this.state.reason)), r.a.createElement("br", null), r.a.createElement(b.b, {
                                 before: r.a.createElement(O.a, {
                                     width: 20,
                                     height: 20,
