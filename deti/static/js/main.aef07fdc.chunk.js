@@ -716,7 +716,7 @@
             e.exports = a.p + "static/media/-teddy-bear_86808.svg"
         },
         99: function(e, t, a) {
-            e.exports = a.p + "static/media/story-bg.iyf20ul8.jpg"
+            e.exports = a.p + "static/media/story-bg.23fffg345.jpg"
         }
     },
     [
