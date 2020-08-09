@@ -710,7 +710,7 @@
             e.exports = a.p + "static/media/animal_toy_stuffedanimal_doll_elephant_2746.png"
         },
         97: function(e, t, a) {
-            e.exports = a.p + "static/media/-teddy-bear_86808.svg"
+            e.exports = a.p + "static/media/animal_toy_stuffedanimal_doll_rabbit_2743.png"
         },
         98: function(e, t, a) {
             e.exports = a.p + "static/media/-teddy-bear_86808.svg"
