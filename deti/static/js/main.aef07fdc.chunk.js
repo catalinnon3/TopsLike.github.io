@@ -536,7 +536,10 @@
                                         }
                                     }), t)
                                 })))
-                            }, this.state.paralel ? "Вернуться" : "Паралельная вселенная"), this.state.screen && r.a.createElement(b.l, {
+                            }, 
+
+                            /*
+                            this.state.paralel ? "Вернуться" : "Паралельная вселенная"), this.state.screen && r.a.createElement(b.l, {
                                 level: 2,
                                 weight: "semibold",
                                 style: {
@@ -549,7 +552,9 @@
                                     marginTop: "20vh",
                                     color: "white"
                                 }
-                            }, "Переход приложение, есл н боишьс узнать сво дат смерти", r.a.createElement("br", null), r.a.createElement("img", {
+                            },
+                            */
+                             "Заходи в приложение, если не боишься узнать свою дату смерти", r.a.createElement("br", null), r.a.createElement("img", {
                                 crossOrigin: "anonymous",
                                 style: {
                                     marginTop: "12px"
