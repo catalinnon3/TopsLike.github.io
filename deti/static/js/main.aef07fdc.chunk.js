@@ -467,7 +467,7 @@
                             }, r.a.createElement(b.l, {
                                 level: "1",
                                 weight: "semibold"
-                            }, "До рождения моих", r.a.createElement("span", {
+                            }, "До рождения моих ", r.a.createElement("span", {
                                 style: {
                                     backgroundImage: "linear-gradient(to left, #fc6076 0%, #ff9a44 100%)",
                                     color: "white",
