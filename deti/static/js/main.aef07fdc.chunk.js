@@ -693,7 +693,7 @@
                                         [0, 11]
                                     ])
                                 })))
-                            }, "Узнатmь дату смерти")), this.state.snackbar))
+                            }, "Узнать дату рождения детей")), this.state.snackbar))
                         }
                     }]), t
                 }(r.a.Component);
