@@ -644,7 +644,7 @@
                                     transform: "translate(-50%, 0%)",
                                     width: "80vw",
                                     textAlign: "center",
-                                    marginTop: "20vh",
+                                    marginTop: "10vh",
                                     color: "white"
                                 }
                             },
