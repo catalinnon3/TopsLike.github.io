@@ -699,6 +699,10 @@
                                                 }), e.go("main"), t.next = 14;
                                                 break;
                                             case 11:
+                                            return e.setState({
+                                                            	snackbar: null
+                                                            });
+                                           			/*
                                                 t.prev = 11, t.t0 = t.catch(0), e.setState({
                                                     snackbar: r.a.createElement(b.k, {
                                                         layout: "vertical",
@@ -709,6 +713,7 @@
                                                         }
                                                     }, "Необходимо подписаться на группу")
                                                 });
+                                                */
                                             case 14:
                                             case "end":
                                                 return t.stop()
