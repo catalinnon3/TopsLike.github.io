@@ -684,7 +684,6 @@
                                 size: "xl",
                                 onClick: Object(p.a)(u.a.mark((function t() {
                                     return u.a.wrap((function(t) {
-                                    	/*
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
                                                 return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
@@ -702,19 +701,14 @@
                                             case 11:
                                                 t.prev = 11, t.t0 = t.catch(0), e.setState({
                                                     snackbar: r.a.createElement(b.k, {
-                                                        layout: "vertical",
-                                                        onClose: function() {
-                                                            return e.setState({
-                                                                snackbar: null
-                                                            })
-                                                        }
+                                                        layout: "vertical"
+                                                        //onClose: function() { return e.setState({snackbar: null })}
                                                     }, "Необходимо подписаться на группу")
                                                 });
                                             case 14:
                                             case "end":
                                                 return t.stop()
                                         }
-										*/
                                     }), t, null, [
                                         [0, 11]
                                     ])
