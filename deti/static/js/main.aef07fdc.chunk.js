@@ -686,6 +686,7 @@
                                     return u.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
+                                            console.log("нажал кнопку");
                                                 return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
                                                     group_id: 197601769
                                                 });
@@ -699,10 +700,6 @@
                                                 }), e.go("main"), t.next = 14;
                                                 break;
                                             case 11:
-                                            return e.setState({
-                                                            	snackbar: null
-                                                            });
-                                           			/*
                                                 t.prev = 11, t.t0 = t.catch(0), e.setState({
                                                     snackbar: r.a.createElement(b.k, {
                                                         layout: "vertical",
@@ -713,7 +710,6 @@
                                                         }
                                                     }, "Необходимо подписаться на группу")
                                                 });
-                                                */
                                             case 14:
                                             case "end":
                                                 return t.stop()
