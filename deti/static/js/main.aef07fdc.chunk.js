@@ -686,16 +686,17 @@
                                     return u.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
-                                                return t.prev = 0, t.next = 4, i.a.send("VKWebAppJoinGroup", {
+                                                return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
                                                     group_id: 197601769
                                                 });
+                                                return t.stop()
                                             case 3:
                                                 return t.sent, e.setState({
-                                                    popout: r.a.createElement(b.i, true)
+                                                    popout: r.a.createElement(b.i, null)
                                                 }), t.next = 7, e.initializeTimer();
                                             case 7:
                                                 e.setState({
-                                                    popout: true
+                                                    popout: null
                                                 }), e.go("main"), t.next = 14;
                                                 break;
                                             case 11:
@@ -704,7 +705,7 @@
                                                         layout: "vertical",
                                                         onClose: function() {
                                                             return e.setState({
-                                                                snackbar: true
+                                                                snackbar: null
                                                             })
                                                         }
                                                     }, "Необходимо подписаться на группу")
