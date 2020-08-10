@@ -684,6 +684,7 @@
                                 size: "xl",
                                 onClick: Object(p.a)(u.a.mark((function t() {
                                     return u.a.wrap((function(t) {
+                                    	/*
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
                                                 return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
@@ -693,7 +694,6 @@
                                                 return t.sent, e.setState({
                                                     popout: r.a.createElement(b.i, null)
                                                 }), t.next = 7, e.initializeTimer();
-                                                break;
                                             case 7:
                                                 e.setState({
                                                     popout: null
@@ -714,6 +714,7 @@
                                             case "end":
                                                 return t.stop()
                                         }
+										*/
                                     }), t, null, [
                                         [0, 11]
                                     ])
