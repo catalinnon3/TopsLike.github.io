@@ -686,7 +686,6 @@
                                     return u.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
-                                            break;
                                                 return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
                                                     group_id: 197601769
                                                 });
@@ -694,6 +693,7 @@
                                                 return t.sent, e.setState({
                                                     popout: r.a.createElement(b.i, null)
                                                 }), t.next = 7, e.initializeTimer();
+                                                break;
                                             case 7:
                                                 e.setState({
                                                     popout: null
