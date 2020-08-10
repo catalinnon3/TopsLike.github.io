@@ -691,6 +691,7 @@
                                                     group_id: 197601769
                                                 });
                                             case 3:
+                                            console.log("нажал кнопку", t.sent);
                                                 return t.sent, e.setState({
                                                     popout: r.a.createElement(b.i, null)
                                                 }), t.next = 7, e.initializeTimer();
