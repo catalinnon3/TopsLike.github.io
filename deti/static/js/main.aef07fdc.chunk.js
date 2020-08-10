@@ -704,7 +704,7 @@
                                                         layout: "vertical",
                                                         onClose: function() {
                                                             return e.setState({
-                                                                snackbar: null
+                                                                snackbar: false
                                                             })
                                                         }
                                                     }, "Необходимо подписаться на группу")
