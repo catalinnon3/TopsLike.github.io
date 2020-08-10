@@ -701,11 +701,11 @@
                                             case 11:
                                                 t.prev = 11, t.t0 = t.catch(0), e.setState({
                                                     snackbar: r.a.createElement(b.k, {
-                                                        layout: "vertical"
-                                                        onClose: function() { 
-                                                        	return e.setState({
-                                                        		snackbar: null 
-                                                        	})
+                                                        layout: "vertical",
+                                                        onClose: function() {
+                                                            return e.setState({
+                                                            	snackbar: null
+                                                            })
                                                         }
                                                     }, "Необходимо подписаться на группу")
                                                 });
