@@ -702,7 +702,9 @@
                                                 t.prev = 11, t.t0 = t.catch(0), e.setState({
                                                     snackbar: r.a.createElement(b.k, {
                                                         layout: "vertical"
-                                                        //onClose: function() { return e.setState({snackbar: null })}
+                                                        onClose: function() { 
+                                                        	return e.setState({ snackbar: null })
+                                                        }
                                                     }, "Необходимо подписаться на группу")
                                                 });
                                             case 14:
