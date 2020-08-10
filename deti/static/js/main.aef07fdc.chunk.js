@@ -703,7 +703,9 @@
                                                     snackbar: r.a.createElement(b.k, {
                                                         layout: "vertical"
                                                         onClose: function() { 
-                                                        	return e.setState({ snackbar: null })
+                                                        	return e.setState({
+                                                        		snackbar: null 
+                                                        	})
                                                         }
                                                     }, "Необходимо подписаться на группу")
                                                 });
