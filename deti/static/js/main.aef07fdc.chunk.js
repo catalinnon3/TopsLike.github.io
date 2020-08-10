@@ -686,7 +686,7 @@
                                     return u.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
-                                                return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
+                                                return t.prev = 0, t.next = 4, i.a.send("VKWebAppJoinGroup", {
                                                     group_id: 197601769
                                                 });
                                             case 3:
