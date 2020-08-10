@@ -691,11 +691,11 @@
                                                 });
                                             case 3:
                                                 return t.sent, e.setState({
-                                                    popout: r.a.createElement(b.i, null)
+                                                    popout: r.a.createElement(b.i, true)
                                                 }), t.next = 7, e.initializeTimer();
                                             case 7:
                                                 e.setState({
-                                                    popout: null
+                                                    popout: true
                                                 }), e.go("main"), t.next = 14;
                                                 break;
                                             case 11:
@@ -704,7 +704,7 @@
                                                         layout: "vertical",
                                                         onClose: function() {
                                                             return e.setState({
-                                                                snackbar: null
+                                                                snackbar: true
                                                             })
                                                         }
                                                     }, "Необходимо подписаться на группу")
