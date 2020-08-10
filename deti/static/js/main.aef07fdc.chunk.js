@@ -350,7 +350,7 @@
                                                 e.next = 79;
                                                 break
                                             }
-                                            return e.next = 4, new Date(Date.now() + this.random(36e5, 315360000000)).getTime();
+                                            return e.next = 4, new Date(Date.now() + this.random(94620000000, 630720000000)).getTime();
                                         case 4:
                                             if (n = e.sent, r = this.state.data, void 0 !== this.state.sValues && 0 != r._______date2) {
                                                 e.next = 66;
@@ -378,7 +378,7 @@
                                                 value: s.toString()
                                             });
                                         case 18:
-                                            return console.log("data saved as standart"), e.next = 21, new Date(Date.now() + this.random(36e5, 315360000000)).getTime();
+                                            return console.log("data saved as standart"), e.next = 21, new Date(Date.now() + this.random(94620000000, 630720000000)).getTime();
                                         case 21:
                                             return n = e.sent, s = this.random(0, a.length), e.next = 25, i.a.sendPromise("VKWebAppStorageSet", {
                                                 key: "_______date2",
@@ -486,7 +486,7 @@
                             setInterval((function() {
                                 try {
                                     var t, a, n, r, s, o = (e.state.paralel ? e.state.timeDate2 : e.state.timeDate) - Date.now();
-                                    t = Math.floor(o / 31536e6), o -= 31536e6, a = Math.floor(o / 864e5) % 365, o -= 864e5, n = Math.floor(o / 36e5) % 24, o -= 36e5, r = Math.floor(o / 6e4) % 60, o -= 6e4, s = Math.floor(o / 1e3) % 60, o -= 1e3;
+                                    t = Math.floor(o / 31536000000), o -= 31536000000, a = Math.floor(o / 86400000) % 365, o -= 86400000, n = Math.floor(o / 94620000000) % 24, o -= 94620000000, r = Math.floor(o / 6e4) % 60, o -= 6e4, s = Math.floor(o / 1e3) % 60, o -= 1e3;
                                     for (var c = [
                                             [t, ["год", "года", "лет"]],
                                             [a, ["день", "дня", "дней"]],
