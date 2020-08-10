@@ -686,24 +686,24 @@
                                     return u.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
-                                            console.log("case 0");
+                                            console.log("case 0", t.prev);
                                                 return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
                                                     group_id: 197601769
                                                 });
                                             case 3:
-                                            console.log("case 3");
+                                            console.log("case 3", t.prev);
                                             console.log(t.sent);
                                                 return t.sent, e.setState({
                                                     popout: r.a.createElement(b.i, null)
                                                 }), t.next = 7, e.initializeTimer();
                                             case 7:
-                                            console.log("case 7");
+                                            console.log("case 7", t.prev);
                                                 e.setState({
                                                     popout: null
                                                 }), e.go("main"), t.next = 14;
                                                 break;
                                             case 11:
-                                            console.log("case 11");
+                                            console.log("case 11", t.prev);
                                                 t.prev = 11, t.t0 = t.catch(0), e.setState({
                                                     snackbar: r.a.createElement(b.k, {
                                                         layout: "vertical",
@@ -715,9 +715,9 @@
                                                     }, "Необходимо подписаться на группу")
                                                 });
                                             case 14:
-                                            console.log("case 14");
+                                            console.log("case 14", t.prev);
                                             case "end":
-                                            console.log("case end");
+                                            console.log("case end", t.prev);
                                                 return t.stop()
                                         }
                                     }), t, null, [
