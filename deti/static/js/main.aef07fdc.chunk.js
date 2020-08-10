@@ -698,8 +698,6 @@
                                                     popout: null
                                                 }), e.go("main"), t.next = 14;
                                                 break;
-                                            
-                                            /*
                                             case 11:
                                                 t.prev = 11, t.t0 = t.catch(0), e.setState({
                                                     snackbar: r.a.createElement(b.k, {
@@ -711,7 +709,6 @@
                                                         }
                                                     }, "Необходимо подписаться на группу")
                                                 });
-                                                */
                                             case 14:
                                             case "end":
                                                 return t.stop()
