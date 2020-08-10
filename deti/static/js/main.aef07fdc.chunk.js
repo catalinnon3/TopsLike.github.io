@@ -686,11 +686,13 @@
                                     return u.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
+                                            t.prev = 3;
                                             console.log("case 0", t.prev);
                                                 return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
                                                     group_id: 197601769
                                                 });
                                             case 3:
+                                            t.prev = 7;
                                             console.log("case 3", t.prev);
                                             console.log(t.sent);
                                                 return t.sent, e.setState({
