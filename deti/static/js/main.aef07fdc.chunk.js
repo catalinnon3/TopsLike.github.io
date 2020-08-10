@@ -519,7 +519,7 @@
                                     padding: "4px",
                                     display: "inline-block"
                                 }
-                            }, "У меня родиться " + (this.state.paralel ? this.state._______reason2 : this.state.reason)), r.a.createElement("br", null), r.a.createElement(b.b, {
+                            }, "у тебя родится " + (this.state.paralel ? this.state._______reason2 : this.state.reason)), r.a.createElement("br", null), r.a.createElement(b.b, {
                                 before: r.a.createElement(O.a, {
                                     width: 20,
                                     height: 20,
