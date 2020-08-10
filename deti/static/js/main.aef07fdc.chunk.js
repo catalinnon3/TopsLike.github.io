@@ -686,21 +686,24 @@
                                     return u.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
-                                            console.log("нажал кнопку");
+                                            console.log("case 0");
                                                 return t.prev = 0, t.next = 3, i.a.send("VKWebAppJoinGroup", {
                                                     group_id: 197601769
                                                 });
                                             case 3:
-                                            console.log("нажал кнопку", t.sent);
+                                            console.log("case 3");
+                                            console.log(t.sent);
                                                 return t.sent, e.setState({
                                                     popout: r.a.createElement(b.i, null)
                                                 }), t.next = 7, e.initializeTimer();
                                             case 7:
+                                            console.log("case 7");
                                                 e.setState({
                                                     popout: null
                                                 }), e.go("main"), t.next = 14;
                                                 break;
                                             case 11:
+                                            console.log("case 11");
                                                 t.prev = 11, t.t0 = t.catch(0), e.setState({
                                                     snackbar: r.a.createElement(b.k, {
                                                         layout: "vertical",
@@ -712,7 +715,9 @@
                                                     }, "Необходимо подписаться на группу")
                                                 });
                                             case 14:
+                                            console.log("case 14");
                                             case "end":
+                                            console.log("case end");
                                                 return t.stop()
                                         }
                                     }), t, null, [
