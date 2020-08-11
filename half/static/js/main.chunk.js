@@ -713,9 +713,10 @@
                                 id: "form"
                             }, r.a.createElement("span", {
                                 style: {
-                                    backgroundImage: "linear-gradient(to left, #fc6076 0%, #ff9a44 100%)",
-                                    color: "white",
-                                    lineHeight: "18px",
+                                    textAlign: "center",
+                                    //backgroundImage: "linear-gradient(to left, #fc6076 0%, #ff9a44 100%)",
+                                    //color: "white",
+                                    //lineHeight: "18px",
                                     padding: "4px 4px 8px 4px",
                                     display: "inline-block"
                                 }
