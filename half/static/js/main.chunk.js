@@ -741,12 +741,8 @@
                                 defaultValue: 14
                             }), r.a.createElement(b.j, {
                                 top: "Ваше имя и знак зодиака?",
-                                defaultValue: "m"
-                            }, r.a.createElement("option", {
-                                value: "m"
-                            }, "Мальчика"), r.a.createElement("option", {
-                                value: "f"
-                            }, "Девочку")), r.a.createElement(b.g, {
+                                type: "text"
+                            }, r.a.createElement(b.g, {
                                 top: "Есть ли у тебя брат/сестра?",
                                 type: "text"
                             }), r.a.createElement(b.g, {
