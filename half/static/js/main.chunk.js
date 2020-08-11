@@ -742,13 +742,6 @@
                             }), r.a.createElement(b.g, {
                                 top: "Ваше имя и знак зодиака?",
                                 type: "text"
-                            }), r.a.createElement(b.g, {
-                                top: "Есть ли у тебя брат/сестра?",
-                                type: "text"
-                            }), r.a.createElement(b.g, {
-                                top: "Во сколько ты хочешь завести детей?",
-                                type: "number",
-                                defaultValue: 18
                             }), r.a.createElement(b.b, {
                                 size: "xl",
                                 onClick: Object(p.a)(u.a.mark((function t() {
