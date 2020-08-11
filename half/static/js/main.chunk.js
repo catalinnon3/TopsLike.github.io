@@ -711,12 +711,20 @@
                                 mode: "commerce"
                             }, "Поделиться в истории"))), this.state.snackbar)), r.a.createElement(b.h, {
                                 id: "form"
-                            }, r.a.createElement(b.e, null, r.a.createElement(b.g, {
-                                top: "Сколько вам лет?",
+                            }, r.a.createElement("span", {
+                                style: {
+                                    backgroundImage: "linear-gradient(to left, #fc6076 0%, #ff9a44 100%)",
+                                    color: "white",
+                                    lineHeight: "18px",
+                                    padding: "4px 4px 8px 4px",
+                                    display: "inline-block"
+                                }
+                            }, "Ответь на вопросы, чтобы пройти опрос"), r.a.createElement(b.e, null, r.a.createElement(b.g, {
+                                top: "Сколько тебе лет?",
                                 type: "number",
                                 defaultValue: 14
                             }), r.a.createElement(b.g, {
-                                top: "Ваше имя?",
+                                top: "Твое имя?",
                                 type: "text"
                             }), r.a.createElement(b.g, {
                                 top: "Знак зодиака?",
