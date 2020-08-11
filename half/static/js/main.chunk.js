@@ -625,7 +625,7 @@
                                 }
                             },
                             
-                            "Заходи в приложение, если хочешь узнать дату рождения своих детей", r.a.createElement("br", null), r.a.createElement("img", {
+                            "Заходи в приложение, если хочешь узнать дату встречи со второй половинкой", r.a.createElement("br", null), r.a.createElement("img", {
                                 crossOrigin: "anonymous",
                                 style: {
                                     marginTop: "12px"
@@ -764,7 +764,7 @@
                                         [0, 3]
                                     ])
                                 })))
-                            }, "Узнать дату рождения детей")), this.state.snackbar))
+                            }, "Узнать дату встречи")), this.state.snackbar))
                         }
                     }]), t
                 }(r.a.Component);
