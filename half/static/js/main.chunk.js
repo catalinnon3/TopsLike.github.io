@@ -716,7 +716,10 @@
                                 type: "number",
                                 defaultValue: 14
                             }), r.a.createElement(b.g, {
-                                top: "Ваше имя и знак зодиака?",
+                                top: "Ваше имя?",
+                                type: "text"
+                            }), r.a.createElement(b.g, {
+                                top: "Знак зодиака?",
                                 type: "text"
                             }), r.a.createElement(b.b, {
                                 size: "xl",
