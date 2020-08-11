@@ -564,7 +564,7 @@
                             }, r.a.createElement(b.l, {
                                 level: "1",
                                 weight: "semibold"
-                            }, "До рождения моих ", r.a.createElement("span", {
+                            }, "Я встречу свою настоящую ", r.a.createElement("span", {
                                 style: {
                                     backgroundImage: "linear-gradient(to left, #fc6076 0%, #ff9a44 100%)",
                                     color: "white",
@@ -572,7 +572,7 @@
                                     padding: "4px 4px 8px 4px",
                                     display: "inline-block"
                                 }
-                            }, "ДЕТЕЙ")), this.state.time ? r.a.createElement(b.l, {
+                            }, "ЛЮБОВЬ")), this.state.time ? r.a.createElement(b.l, {
                                 level: "2",
                                 weight: "semibold",
                                 style: {
