@@ -788,7 +788,7 @@
             e.exports = a.p + "static/media/story-bg.452hdfsfg34.png"
         },
         99: function(e, t, a) {
-            e.exports = a.p + "static/media/story-bg.gsd33f23444.png"
+            e.exports = a.p + "static/media/orig.gif"
         }
     },
     [
