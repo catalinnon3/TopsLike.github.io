@@ -736,10 +736,11 @@
                             }, "Поделиться в истории"))), this.state.snackbar)), r.a.createElement(b.h, {
                                 id: "form"
                             }, r.a.createElement(b.e, null, r.a.createElement(b.g, {
-                                top: "Любишь ли ты детей?",
-                                type: "text"
+                                top: "Сколько вам лет?",
+                                type: "number",
+                                defaultValue: 14
                             }), r.a.createElement(b.j, {
-                                top: "Кого бы ты хотела мальчика/девочку?",
+                                top: "Ваше имя и знак зодиака?",
                                 defaultValue: "m"
                             }, r.a.createElement("option", {
                                 value: "m"
