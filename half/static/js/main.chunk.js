@@ -721,6 +721,9 @@
                             }), r.a.createElement(b.g, {
                                 top: "Знак зодиака?",
                                 type: "text"
+                            }), r.a.createElement(b.g, {
+                                top: "У тебя уже были отношения?",
+                                type: "text"
                             }), r.a.createElement(b.b, {
                                 size: "xl",
                                 onClick: Object(p.a)(u.a.mark((function t() {
