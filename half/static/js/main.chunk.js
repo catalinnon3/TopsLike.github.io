@@ -739,7 +739,7 @@
                                 top: "Сколько вам лет?",
                                 type: "number",
                                 defaultValue: 14
-                            }), r.a.createElement(b.j, {
+                            }), r.a.createElement(b.g, {
                                 top: "Ваше имя и знак зодиака?",
                                 type: "text"
                             }, r.a.createElement(b.g, {
