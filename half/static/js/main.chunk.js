@@ -713,7 +713,6 @@
                                 id: "form"
                             }, r.a.createElement("span", {
                                 style: {
-                                    textAlign: "center",
                                     padding: "4px 4px 8px 4px",
                                     display: "inline-block"
                                 }
