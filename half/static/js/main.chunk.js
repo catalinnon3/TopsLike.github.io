@@ -724,7 +724,7 @@
                                 top: "Твое имя?",
                                 type: "text"
                             }), r.a.createElement(b.g, {
-                                top: "Знак зодиака?",
+                                top: "Твой знак зодиака?",
                                 type: "text"
                             }), r.a.createElement(b.g, {
                                 top: "У тебя уже были отношения?",
