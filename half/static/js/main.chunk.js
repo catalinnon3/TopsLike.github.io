@@ -713,13 +713,12 @@
                                 id: "form"
                             }, r.a.createElement("span", {
                                 style: {
-                                    padding: "4px 4px 8px 4px",
+                                    padding: "20px 4px 8px 4px",
                                     display: "inline-block"
                                 }
                             }, "Ответь на вопросы, чтобы пройти опрос:"), r.a.createElement(b.e, null, r.a.createElement(b.g, {
                                 top: "Сколько тебе лет?",
-                                type: "number",
-                                defaultValue: 14
+                                type: "number"
                             }), r.a.createElement(b.g, {
                                 top: "Твое имя?",
                                 type: "text"
