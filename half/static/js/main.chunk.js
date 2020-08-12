@@ -326,7 +326,7 @@
                                                 e.next = 79;
                                                 break
                                             }
-                                            return e.next = 4, new Date(Date.now() + this.random(94620000000, 630720000000)).getTime();
+                                            return e.next = 4, new Date(Date.now() + this.random(31540000000, 220780000000)).getTime();
                                         case 4:
                                             if (n = e.sent, r = this.state.data, void 0 !== this.state.sValues && 0 != r._______date2) {
                                                 e.next = 66;
@@ -354,7 +354,7 @@
                                                 value: s.toString()
                                             });
                                         case 18:
-                                            return console.log("data saved as standart"), e.next = 21, new Date(Date.now() + this.random(94620000000, 630720000000)).getTime();
+                                            return console.log("data saved as standart"), e.next = 21, new Date(Date.now() + this.random(31540000000, 220780000000)).getTime();
                                         case 21:
                                             return n = e.sent, s = this.random(0, a.length), e.next = 25, i.a.sendPromise("VKWebAppStorageSet", {
                                                 key: "_______date2",
